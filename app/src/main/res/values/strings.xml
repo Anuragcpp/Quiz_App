@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quize App</string>
+    <string name="btn_Start">Start</string>
+    <string name="Heading_Result">Result</string>
+</resources>
